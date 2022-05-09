@@ -1,0 +1,38 @@
+
+#banner-content{
+    position: relative;
+ padding-top: 6%;
+ padding-bottom: 6%;
+ margin-top: 12%;
+margin-bottom: 12%;
+ background-color: rgba(0, 0, 0, 0.7);
+ max-width: 660px;
+}
+.footer{
+padding: 10px 0;
+background-color: #101010;
+color:#9d9d9d;
+bottom: 0;
+width: 100%;
+}
+.caption{
+        font-weight: bold;
+}
+.row_style{
+    margin-top:10px;
+}
+#table{
+    width:50;
+}
+
+body {
+    font-weight:bolder;
+    font-family: 'Roboto', 'sans-serif';
+}
+footer{
+padding: 10px 0;
+background-color: #101010;
+color:#9d9d9d;
+bottom: 0;
+width: 100%;
+}
